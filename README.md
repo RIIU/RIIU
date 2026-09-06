@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQENBggZ0ukEbw/profile-displaybackgroundimage-shrink_350_1400/B56ZjX6wZPIAAc-/0/1755969162406?e=1758758400&v=beta&t=n8fyiJsBGPnx8r4C0vzqIbHxp3laSXUI2wMXdyJC8qk"
+  <img src="https://www.linkedin.com/in/rakibul-islam-942780160/overlay/background-photo/"
        alt="Rakibul Islam — WordPress Designer & Developer"
        style="max-width: 100%; height: auto;" />
 </p>
